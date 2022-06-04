@@ -1,5 +1,5 @@
-/* Audio Library for Teensy 3.X
- * Copyright (c) 2014, Pete (El Supremo)
+/* Sikora Teensy Audio Addons Library
+ * Copyright (c) 2022, Michael Sikora <sikoraaudio@gmail.com>
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal

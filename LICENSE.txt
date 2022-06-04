@@ -1,4 +1,4 @@
-/* Sikora Teensy NS Library
+/* Sikora Teensy Audio Addons Library
  * Copyright (c) 2022, Michael Sikora <sikoraaudio@gmail.com>
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
