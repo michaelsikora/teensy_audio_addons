@@ -1,0 +1,9 @@
+* Netlist created with www.circuit-diagram.org
+* 
+V1 1 0
+V2 3 0
+'zenerdiode an:0 cat:4 t=Zener
+'polarisedcapacitor a:0 b:1 style=US text= capacitance=0.00033 showCapacitance=True t=Polarised
+C3 5 2 2.2E-07
+'polarisedcapacitor a:4 b:1 style=US text= capacitance=0.00033 showCapacitance=True t=Polarised
+R4 5 3 1000
